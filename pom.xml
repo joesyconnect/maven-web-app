@@ -93,8 +93,6 @@
 		
 	</dependencies>
 	
-      http://18.119.0.229:8081/repository/boa-release/
-	
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
