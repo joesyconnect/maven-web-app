@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Xora Technologies</h1>
+<h1 align="center">Welcome to Xora Nigeria Technologies</h1>
 <h2 align="center">  
 	We also offer interview preparations and job assitance.
 	Class 26 will run from october 2 2021
