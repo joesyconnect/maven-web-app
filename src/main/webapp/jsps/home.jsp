@@ -9,10 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to xora US-Canada Technologies</h1>
+<h1 align="center">Welcome to XORA US-Canada Technologies</h1>
 <h2 align="center"> ebay black friday 
 	We also offer interview preparations and job assitance.
-	Class 26 will run from may 2 2022
+	Class 26 will run from may 2 2023
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
